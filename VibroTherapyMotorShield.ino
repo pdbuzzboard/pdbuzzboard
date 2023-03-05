@@ -11,7 +11,7 @@ AF_DCMotor motor2(2);
 AF_DCMotor motor3(3);
 AF_DCMotor motor4(4);
 
-int timer = 167;           // The higher the number, the slower the timing.
+int timer = 100;           // The higher the number, the slower the timing.
 int ledPins[] = { 3, 2, 4, 1, 1, 2, 4, 3, 2, 4, 3, 1, 13, 13, 13, 13, 13, 13, 13, 13, 2, 4, 3, 1, 2, 1, 3, 4, 1, 3, 4, 2 };
 // an array of pin numbers to which LEDs are attached Pin 13 is a pause
 int pinCount = 32;           // the number of pins (i.e. the length of the array)
