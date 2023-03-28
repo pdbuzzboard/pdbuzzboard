@@ -113,7 +113,30 @@ For assembly of the electrical compontents, look here: https://www.youtube.com/w
 # PD Buzzboard Gloves with Separate Controllers
 
 ## Parts List
-Coming soon...
+Amazon.com: HiLetgo 3pcs Pro Mini Atmega328P 5V/16M Replace ATmega128 Pro Mini Atmega328 328P DC5V 16M for Arduino : Electronics
+
+Amazon.com: Amazon Basics USB 2.0 Charger Cable - A-Male to Mini-B Cord - 3 Feet (0.9 Meters) for Personal Computer. : Electronics
+
+ELECTOP 2 Pack Male to Female USB Cable with On/Off Switch, USB Extension Inline Rocker Switch for Driving Recorder, LED Desk Lamp, USB Fan, LED Strips (amazon.com)
+
+Terminal Block White Screw Terminal Connector Dual Row Electric Barrier Block 12-Position Terminal Strip, 10 Amp 380 V (20): Amazon.com: Industrial & Scientific
+
+finger cots
+
+Amazon.com: ZEPOHCK 10 Pcs Cut Resistant Protection Finger Cots, Finger Sleeve, Finger Cover Life Extender for Kitchen, Work, Sculpture, Anti-Slip, Reusable : Health & Household
+
+archery glove not the exact one I use, but close enough.  you can get cheap ones from China.
+
+Allen Super Comfort 3 Finger Archery Glove | Dick's Sporting Goods (dickssportinggoods.com)
+
+BNTECHGO 26 Gauge Silicone Wire Spool Red and Black Each 25ft 2 Separate Wires Flexible 26 AWG Stranded Tinned Copper Wire: Amazon.com: Tools & Home Improvement
+
+4" cable ties
+
+You'll need a 5v 2A battery pack per hand.
+
+Velcro for wrist strap - Reusable Hook & Loop Strong Grip Fastener Roll 2" x 16' (2" Wide, 16 Feet Long) - Black
+https://www.amazon.com/gp/product/B07FLQBG4P/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ## Instructions
 More instructions coming soon...
