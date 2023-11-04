@@ -152,7 +152,8 @@ Vibration Sensor - https://www.amazon.com/gp/product/B0829SZFBL (this was used s
 This video gives you the instructions to build it:
 https://www.youtube.com/watch?v=qlr-2mkvalQ
 
-##Updated Motor Shield Glove controller (RJ-45) parts list
+## Updated Motor Shield Glove controller (RJ-45) parts list
+
 Outdoor water proof power box 150x110x70 https://www.aliexpress.us/item/2255800845591229.html?spm=a2g0o.order_list.order_list_main.35.25ff1802jqD6wx&gatewayAdapt=glo2usa
 RJ-45 cable - controller to glove RJ-45 cable to connect to gloves https://www.aliexpress.us/item/2251832820215572.html?spm=a2g0o.order_list.order_list_main.53.767d1802Ah7Ld3&gatewayAdapt=glo2usaRJ-45 c
 RJ-45 passthrough (for the housing)  SELECT STRAIGHT https://www.aliexpress.us/item/3256801104527755.html?spm=a2g0o.order_list.order_list_main.81.585b1802S5D2YO&gatewayAdapt=glo2usa
@@ -160,3 +161,7 @@ RJ-45 screw terminal (back of glove) https://www.amazon.com/dp/B09GFF83KV?psc=1&
 RJ-45 cables 1 foot for interior of controller https://www.amazon.com/dp/B08MB6XTZK?ref=ppx_yo2ov_dt_b_product_details&th=1
 
 The rest of the parts are commoon to the buzzboard / motorshield gloves (see above)
+
+## Instructions
+This video gives you the instructions to build the updated controller housing / RJ-45 gloves
+https://www.youtube.com/watch?v=W2gthMw9JYo
